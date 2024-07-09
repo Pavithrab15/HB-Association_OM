@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ASSOC_ONE_TO_MANY</groupId>
+  <artifactId>ONE_TO_MANY</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <description>ASSOCIATION ONE TO MANY EXAMPLE</description>
+  
+  <dependencies>
+	
+		<dependency>
+	<groupId>org.hibernate</groupId>
+	<artifactId>hibernate-core</artifactId>
+	<version>6.1.7.Final</version>		
+	</dependency>
+	<dependency>
+		<groupId>mysql</groupId>
+	<artifactId>mysql-connector-java</artifactId>
+	<version>8.0.32</version>	
+		
+	</dependency>
+	
+ 
+  </dependencies>
+</project>
